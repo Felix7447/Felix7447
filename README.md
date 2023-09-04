@@ -40,19 +40,13 @@ Hello, I am Frontend Web Developer,  looking to be part of a team to develop my 
 ## Skills
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=html,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
 ### Libraries & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,graphql)](https://skillicons.dev)
-
-### Styling
-[![My Skills](https://skillicons.dev/icons?i=css,sass,tailwind,styledcomponents)](https://skillicons.dev)
-
-### Module Bundlers
-[![My Skills](https://skillicons.dev/icons?i=webpack,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,graphql,sass,tailwind,styledcomponents)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=webpack,vite,git,github,vscode)](https://skillicons.dev)
   
 -------------------
 
