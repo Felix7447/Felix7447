@@ -49,8 +49,16 @@ Hello, I am Frontend Web Developer,  looking to be part of a team to develop my 
 [![My Skills](https://skillicons.dev/icons?i=webpack,vite,git,github,vscode)](https://skillicons.dev)
   
 -------------------
+### Stats
 
 ![felix7447 github streak](https://github-readme-streak-stats.herokuapp.com/?user=felix7447&theme=radical&include_all_commits=true&count_private=true)
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix7447&langs_count=10&theme=tokyonight&layout=compact"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=felix7447&show_icons=true&theme=synthwave"/></td>
+  </tr>
+</table>
 
  <div>
 
